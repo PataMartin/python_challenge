@@ -8,6 +8,8 @@ The challenge has two stages:
 
 2- Write unit tests for these methods on another file called test_queue.py.
    You must use the unittest module for this purpose.
+
+   Chill off. I'm not doing this challenge...
 """
 
 
